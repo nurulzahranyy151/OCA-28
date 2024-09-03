@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Dashboard from './Dashboard.js';
+import Statistic from './pages/Statistic.js';
 
 function App() {
   return (
